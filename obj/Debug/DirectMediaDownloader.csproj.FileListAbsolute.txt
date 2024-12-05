@@ -1,0 +1,7 @@
+C:\Users\bolog\Desktop\DirectMediaDownloader\bin\Debug\DirectMediaDownloader.exe.config
+C:\Users\bolog\Desktop\DirectMediaDownloader\bin\Debug\DirectMediaDownloader.exe
+C:\Users\bolog\Desktop\DirectMediaDownloader\bin\Debug\DirectMediaDownloader.pdb
+C:\Users\bolog\Desktop\DirectMediaDownloader\obj\Debug\DirectMediaDownloader.csproj.AssemblyReference.cache
+C:\Users\bolog\Desktop\DirectMediaDownloader\obj\Debug\DirectMediaDownloader.csproj.CoreCompileInputs.cache
+C:\Users\bolog\Desktop\DirectMediaDownloader\obj\Debug\DirectMediaDownloader.exe
+C:\Users\bolog\Desktop\DirectMediaDownloader\obj\Debug\DirectMediaDownloader.pdb
