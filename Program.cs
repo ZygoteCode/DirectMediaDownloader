@@ -6,7 +6,7 @@ public class Program
 {
     public static void Main()
     {
-        Console.Title = "DirectMediaDownloader | Made by https://github.com/GabryB03/";
+        Console.Title = "DirectMediaDownloader | Made by https://github.com/ZygoteCode/";
         byte[] data = null;
         
         while (true)
