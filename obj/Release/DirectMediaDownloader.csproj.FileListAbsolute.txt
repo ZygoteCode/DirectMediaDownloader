@@ -1,0 +1,7 @@
+C:\Users\ZygoteCode\Desktop\DirectMediaDownloader\bin\Release\DirectMediaDownloader.exe.config
+C:\Users\ZygoteCode\Desktop\DirectMediaDownloader\bin\Release\DirectMediaDownloader.exe
+C:\Users\ZygoteCode\Desktop\DirectMediaDownloader\bin\Release\DirectMediaDownloader.pdb
+C:\Users\ZygoteCode\Desktop\DirectMediaDownloader\obj\Release\DirectMediaDownloader.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\DirectMediaDownloader\obj\Release\DirectMediaDownloader.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\DirectMediaDownloader\obj\Release\DirectMediaDownloader.exe
+C:\Users\ZygoteCode\Desktop\DirectMediaDownloader\obj\Release\DirectMediaDownloader.pdb
